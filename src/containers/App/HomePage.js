@@ -74,7 +74,7 @@ function HomePage({ dispatch, turn }) {
   const onClickOKButton = () => {
     setPlay(false);
     setStopTime(false);
-    if (hours !== 0 && minutes !== 0) {
+    if (hours !== 0 || minutes !== 0) {
       dispatch(decrementTurn());
     }
   };
