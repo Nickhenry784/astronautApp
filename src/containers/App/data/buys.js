@@ -1,19 +1,19 @@
 const buys = [
   {
-    sku: 'a1_t_100',
-    value: 50,
-  },
-  {
-    sku: 'a1_t_200',
+    sku: 'ast2803_t_100',
     value: 100,
   },
   {
-    sku: 'a1_t_300',
-    value: 150,
+    sku: 'ast2803_t_200',
+    value: 200,
   },
   {
-    sku: 'a1_t_400',
-    value: 200,
+    sku: 'ast2803_t_300',
+    value: 300,
+  },
+  {
+    sku: 'ast2803_t_400',
+    value: 400,
   },
 ];
 
